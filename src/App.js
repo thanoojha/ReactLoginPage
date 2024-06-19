@@ -1,4 +1,3 @@
-// src/App.js
 import './styles.css';
 import React, { useState } from 'react';
 import Login from './components/Login';

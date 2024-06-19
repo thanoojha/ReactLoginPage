@@ -1,4 +1,3 @@
-// src/components/Welcome.js
 import React from 'react';
 
 function Welcome({ username, action, onLogout }) {
